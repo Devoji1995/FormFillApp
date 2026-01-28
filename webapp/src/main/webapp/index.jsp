@@ -33,11 +33,11 @@
     <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
 
-      <label for="Daughter"><b>Father Name</b></label>
+      <label for="Daughter"><b>Daughter Name</b></label>
     <input type="text" placeholder="Daughter Name" name="Daughter" id="Daughter" required>
     <br>
       
-     <label for="Son"><b>Father Name</b></label>
+     <label for="Son"><b>Son Name</b></label>
     <input type="text" placeholder="Son Name" name="Son" id="Son" required>
     <br>
 
