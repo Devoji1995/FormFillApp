@@ -21,10 +21,6 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <label for="aadhar"><b>Aadhar Number</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
-    <br>
-
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
