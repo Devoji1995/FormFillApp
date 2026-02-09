@@ -33,14 +33,6 @@
     <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
 
-      <label for="Daughter"><b>Daughter Name</b></label>
-    <input type="text" placeholder="Daughter Name" name="Daughter" id="Daughter" required>
-    <br>
-      
-     <label for="Son"><b>Son Name</b></label>
-    <input type="text" placeholder="Son Name" name="Son" id="Son" required>
-    <br>
-
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
